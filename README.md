@@ -9,4 +9,8 @@ This tool utilizes Twitter and Google NLP API to compare sentiment towards two r
 I went through tutorials and tried to implement them to reproduce the results locally on my machine. I was able to successfully call multiple functions contained within the Google Language API and was able to use them to perform basic sentiment analysis on my own generated text files. I was also able to utilize tweepy to successfully authenticate with Twitter and grab tweets based on search word, popularity, and time of posting. I included some of these example scripts as well.
 
 ## Potential User Stories & Use Cases
+* Everyday consumers might want suggestions when deciding what restaurant to go to
 
+* Businesses might want to see how customers feel after visiting
+
+* Businesses might want to see how their public reception compares to the competition
